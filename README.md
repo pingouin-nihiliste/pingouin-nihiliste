@@ -1,4 +1,4 @@
-![](https://i.imgur.com/HIzyrNA.png)
+![](https://i.imgur.com/HIzyrNA.png?2)
 
 <p align="center">
   <a aria-label="Website" href="https://adams.sh">
