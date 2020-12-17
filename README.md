@@ -6,7 +6,7 @@
   </a>
   
   <a aria-label="Linkedin" href="https://www.linkedin.com/in/valentin-bonnard-a0204b201/">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge">
   </a>
   
   <a aria-label="Projects" href="">
